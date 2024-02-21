@@ -1,2 +1,5 @@
 
 src/module-info.java
+/bin/
+.project
+.classpath
